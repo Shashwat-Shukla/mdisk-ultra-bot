@@ -1,0 +1,45 @@
+{
+    "name": "Doodstream Post Converter Bot",
+    "description": "Upload on Doodstream...",
+    "keywords": [
+        "telegram",
+        "Doodstream",
+        "shortner"
+    ],
+    "website": "https://github.com/Amul-jat/Doodstreambot",
+    "repository": "https://github.com/Amul-jat/Doodstreambot",
+    "env": {
+        "BOT_TOKEN": {
+            "description": "Your bot token (must add)",
+            "value": "5070541094:AAEIZC7-LQfLANV3TcRRjvh9WFpuVDppMAU"
+        },
+        "API_ID": {
+            "description": "Get this value from https://my.telegram.org",
+            "value": "7626510"
+        },
+        "API_HASH": {
+            "description": "Get this value from https://my.telegram.org",
+            "value": "ca991bfa07a6ac45e6d5f374c84ab05c"
+        },
+        "CUSTOM_FOOTER": {
+            "description": "Enter your Custom Footer",
+            "value": "Join"
+        },
+        "MDISK_TOKEN": {
+            "description": "Put your MDisk API key here",
+            "value": "j219piqFPsQBhba52F4l"
+        }
+    },
+    "addons": [],
+    "buildpacks": [
+        {
+            "url": "heroku/python"
+        }
+    ],
+    "formation": {
+        "worker": {
+            "quantity": 1,
+            "size": "free"
+        }
+    }
+}
