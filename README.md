@@ -32,7 +32,9 @@ Create a Account on Heroku & Click on Deploy.
 
 - `BOT_TOKEN`: Create a bot using [@BotFather](https://telegram.dog/BotFather), and get the Telegram API token.
 - `MDISK_TOKEN`: Your MDisk API key Get it from [@VideoToolMoneyTree_bot](https://telegram.dog/VideoToolMoneyTree_bot)
-##### Credit
+
 API ID & HASH are not required to be changed but change it with yours if you want. Get it from telegram.org
+
+##### Credit
 
 - Me [Shashwat-Shukla](https://github.com/Shashwat-Shukla) For This Repo
