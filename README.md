@@ -5,6 +5,7 @@ Supports Bitly Links as well
 Many people Selling it 😂 But now it's FREE
 
 ## Features
+- [x] Ultra High Speed ⚡ Convertor
 
 - [x] Url Upload
 
