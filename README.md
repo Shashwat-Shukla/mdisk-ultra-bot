@@ -23,7 +23,10 @@ Many people Selling it 😂 But now it's FREE
 
 ### Installation
 Create a Account on Heroku & Click on Deploy.
-
+Setup your Bot Token and MDisk API key & click on Deploy App.
+Wait for a Minute 😉
+Done ✅
+Start your Bot in Telegram & Enjoy
 #### The Easy Way
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/Shashwat-Shukla/mdisk-ultra-bot)
