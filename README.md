@@ -10,7 +10,15 @@ Many people Selling it 😂 But now it's FREE
 
 - [x] Post to Post Conversion
 
-- [x] Permanent Thumbnail Support
+- [x] Bitly Links are also Supported
+
+- [x] Bold Font
+
+- [x] Removes Unwanted links and @Usernames
+
+- [x] Add your Own Footer Text
+
+- [x] At last It's FREE & Original
 
 ### Installation
 
