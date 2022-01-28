@@ -22,6 +22,7 @@ Many people Selling it 😂 But now it's FREE
 - [x] It's FREE & Original
 
 ### Installation
+Create a Account on Heroku & Click on Deploy.
 
 #### The Easy Way
 
