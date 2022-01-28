@@ -18,7 +18,7 @@ Many people Selling it 😂 But now it's FREE
 
 - [x] Add your Own Footer Text
 
-- [x] At last It's FREE & Original
+- [x] It's FREE & Original
 
 ### Installation
 
@@ -29,7 +29,7 @@ Many people Selling it 😂 But now it's FREE
 ##### Required Variables
 
 - `BOT_TOKEN`: Create a bot using [@BotFather](https://telegram.dog/BotFather), and get the Telegram API token.
-- `MDISK_TOKEN`: Your MDisk API key 
+- `MDISK_TOKEN`: Your MDisk API key Get it from [
 ##### Credit
 
 - Me [Shashwat-Shukla](https://github.com/Shashwat-Shukla) For This Repo
