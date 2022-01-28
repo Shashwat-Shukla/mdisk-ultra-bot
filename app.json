@@ -23,7 +23,7 @@
         },
         "CUSTOM_FOOTER": {
             "description": "Enter your Custom Footer",
-            "value": "Join"
+            "value": "eg. JOIN MY CHANNEL"
         },
         "MDISK_TOKEN": {
             "description": "Put your MDisk API key here",
