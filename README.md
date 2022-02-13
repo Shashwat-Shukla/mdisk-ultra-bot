@@ -36,7 +36,7 @@ Start your Bot in Telegram & Enjoy
 - `BOT_TOKEN`: Create a bot using [@BotFather](https://telegram.dog/BotFather), and get the Telegram API token.
 - `MDISK_TOKEN`: Your MDisk API key Get it from [@VideoToolMoneyTree_bot](https://telegram.dog/VideoToolMoneyTree_bot)
 
-API ID & HASH are not required to be changed but change it with yours if you want. Get your own 🤗 from https://my.telegram.org
+`API ID` & `API HASH` Get your own 🤗 from https://my.telegram.org
 
 ##### Credit
 
